@@ -1,4 +1,9 @@
 
+#Differences in Python and C#
+#No Using statements
+#Dictionary are defined by {}
+#Variables are not strictly typed
+
 films = {
     "Finding Dory": [3,5],
     "Bourne": [18,5],
@@ -7,7 +12,6 @@ films = {
     }
 
 while True:
-    #This is a comment
     choice = input("What film would you like to watch?: ").strip().title()
 
     if choice in films:
