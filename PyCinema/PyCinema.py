@@ -1,9 +1,4 @@
 
-#Differences in Python and C#
-#No Using statements
-#Dictionary are defined by {}
-#Variables are not strictly typed
-
 films = {
     "Finding Dory": [3,5],
     "Bourne": [18,5],
