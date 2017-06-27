@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>dc612a53-38d7-4598-9693-8d31aadf04a5</ProjectGuid>
+    <ProjectGuid>fa7d7faa-d58a-45f6-8a48-0ef8d29ee42f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>PyBank.py</StartupFile>
     <SearchPath>
