@@ -1,4 +1,6 @@
 # There are certain ways that you must enter a comment
+# or you will get errors. Not in Visual Studio but IdealJ
+
 films = {
     "Finding Dory": [3,5],
     "Bourne": [18,5],
